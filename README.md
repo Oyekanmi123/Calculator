@@ -29,3 +29,5 @@ git clone https://github.com/Oyekanmi123/Calculator.git
 <img width="921" height="969" alt="Calculator" src="https://github.com/user-attachments/assets/837c730f-0d34-4f22-8488-e21c8b8620b1" />
 
 
+## Live Demo
+[Click here to see the live demo] (https://oyekanmi123.github.io/Calculator/)
